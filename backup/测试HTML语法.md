@@ -26,5 +26,4 @@
   </tbody>
 </table>
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1756172760&bvid=BV1h4421U75T&cid=1604588910&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-常用的测试一下
+<iframe src="//player.bilibili.com/player.html?<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1756172760&bvid=BV1h4421U75T&cid=1604588910&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
