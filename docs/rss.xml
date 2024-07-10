@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>秋明的博客</title><link>https://wsadfsf3345.github.io</link><description>秋明，热爱分享</description><copyright>秋明的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://54efea06.telegraph-image-ed8.pages.dev/file/6e80b56cfb2deffe08005.jpg</url><title>avatar</title><link>https://wsadfsf3345.github.io</link></image><lastBuildDate>Wed, 10 Jul 2024 11:58:02 +0000</lastBuildDate><managingEditor>秋明的博客</managingEditor><ttl>60</ttl><webMaster>秋明的博客</webMaster><item><title>测试HTML语法</title><link>https://wsadfsf3345.github.io/post/ce-shi-HTML-yu-fa.html</link><description>&lt;h1&gt;这是一个标题&lt;/h1&gt;&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>秋明的博客</title><link>https://wsadfsf3345.github.io</link><description>秋明，热爱分享</description><copyright>秋明的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://54efea06.telegraph-image-ed8.pages.dev/file/6e80b56cfb2deffe08005.jpg</url><title>avatar</title><link>https://wsadfsf3345.github.io</link></image><lastBuildDate>Wed, 10 Jul 2024 11:59:46 +0000</lastBuildDate><managingEditor>秋明的博客</managingEditor><ttl>60</ttl><webMaster>秋明的博客</webMaster><item><title>测试HTML语法</title><link>https://wsadfsf3345.github.io/post/ce-shi-HTML-yu-fa.html</link><description>&lt;h1&gt;这是一个标题&lt;/h1&gt;&#13;
 &lt;h1&gt;这是一个二级标题&lt;/h2&gt;&#13;
 &lt;p&gt;这是一个段落&lt;/p&gt;&#13;
 &lt;b&gt;加粗文本&lt;/b&gt;&lt;br&gt;&lt;br&gt;&#13;
@@ -28,6 +28,7 @@
 &lt;/table&gt;&#13;
 &#13;
 &lt;iframe src='//player.bilibili.com/player.html?isOutside=true&amp;aid=1756172760&amp;bvid=BV1h4421U75T&amp;cid=1604588910&amp;p=1' scrolling='no' border='0' frameborder='no' framespacing='0' allowfullscreen='true'&gt;&lt;/iframe&gt;&#13;
+常用的测试一下&#13;
 。</description><guid isPermaLink="true">https://wsadfsf3345.github.io/post/ce-shi-HTML-yu-fa.html</guid><pubDate>Wed, 10 Jul 2024 11:56:04 +0000</pubDate></item><item><title>md语法测试</title><link>https://wsadfsf3345.github.io/post/md-yu-fa-ce-shi.html</link><description># Markdown:量级的标记语言的优雅之旅&#13;
 ## 引言&#13;
 在当今信息爆炸的时代，人们对于文本编辑何排版的需求日益增长，Markdown，一种轻量级的标记语言，因其简介易书写的特点，逐渐成为程序员博客作者和内容创作者的首选。</description><guid isPermaLink="true">https://wsadfsf3345.github.io/post/md-yu-fa-ce-shi.html</guid><pubDate>Wed, 10 Jul 2024 11:24:25 +0000</pubDate></item><item><title>大家好，我是秋明</title><link>https://wsadfsf3345.github.io/post/da-jia-hao-%EF%BC%8C-wo-shi-qiu-ming.html</link><description>也许我会消失，当我的文字会在互联网中永存于世，并帮助每一位来客，愿各位生活顺心。</description><guid isPermaLink="true">https://wsadfsf3345.github.io/post/da-jia-hao-%EF%BC%8C-wo-shi-qiu-ming.html</guid><pubDate>Wed, 10 Jul 2024 11:10:39 +0000</pubDate></item></channel></rss>
